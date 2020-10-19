@@ -1,8 +1,10 @@
 # About
 
-Copyright 2020 Udit
+Copyright 2020 
 
-This python script will help you to send multiple emails to a single or multiple receivers using SMTP python.
+This python script will let you send emails using SMTP python it has 2 modes.
+1) Send an email to all receivers.
+2) Send multiple emails to all receivers.
 
 # Tested on
 - *Windows 10*
