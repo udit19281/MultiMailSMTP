@@ -1,6 +1,6 @@
 # About
 
-Copyright 2020 Udit Bhati smile
+Copyright 2020 Udit
 
 This python script will help you to send multiple emails to a single or multiple receivers using SMTP python.
 
